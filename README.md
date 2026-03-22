@@ -22,8 +22,10 @@ PC System with Linux OS, NS2 software.
 - STEP 11: Set up the ftp over the tcp connection.
 - STEP 12: Create the traffic generator CBR for the source and destination files.
 - STEP 13: Define the plot window and finish procedure.
-- STEP 14: In the definition of the finish procedure declare the global variables. STEP 15: Close the trace file and namefile and execute the network animation file. STEP 16: At the particular time call the finish procedure.
-- STEP 15: Stop the program.
+- STEP 14: In the definition of the finish procedure declare the global variables.
+- STEP 15: Close the trace file and namefile and execute the network animation file.
+- STEP 16: At the particular time call the finish procedure.
+- STEP 17: Stop the program.
 
 # PROGRAM:
 
